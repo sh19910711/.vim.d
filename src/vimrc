@@ -1,0 +1,15 @@
+set nocompatible
+syntax off
+set clipboard=unnamed,unnamedplus
+set tabstop=2
+set shiftwidth=2
+set nowrap
+set mouse=a
+set ttymouse=sgr
+set smarttab
+set expandtab
+set autoindent
+set smartindent
+set hlsearch
+set colorcolumn=+2
+set textwidth=0
