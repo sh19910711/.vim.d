@@ -15,3 +15,4 @@ set colorcolumn=+2
 set textwidth=0
 set number
 set relativenumber
+map <C-W>o <C-W>w
