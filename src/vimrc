@@ -13,3 +13,5 @@ set smartindent
 set hlsearch
 set colorcolumn=+2
 set textwidth=0
+set number
+set relativenumber
