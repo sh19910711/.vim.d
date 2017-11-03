@@ -1,19 +1,15 @@
 set nocompatible
 syntax off
 set backspace=indent,eol,start
-set clipboard=unnamed,unnamedplus
 set tabstop=2
 set shiftwidth=2
 set nowrap
-set mouse=a
-set ttymouse=sgr
 set smarttab
 set expandtab
 set autoindent
 set smartindent
 set hlsearch
-set colorcolumn=+2
+set colorcolumn=80
 set textwidth=0
 set number
 set relativenumber
-map <C-W>o <C-W>w
